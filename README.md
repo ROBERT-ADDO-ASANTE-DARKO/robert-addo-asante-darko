@@ -25,7 +25,7 @@ Welcome to my GitHub! I'm Robert Y. Agyekum Addo, a passionate **Machine Learnin
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
 
 ### Frameworks & Libraries
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/TensorFlow_logo.svg" alt="TensorFlow" width="50"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" width="50"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV" width="50"/>
 
 ## 🔥 **Skills**
 - 🧠 **Deep Learning**: CNNs, GANs, Semantic Segmentation  
