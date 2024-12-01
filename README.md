@@ -21,15 +21,14 @@ Welcome to my GitHub! I'm Robert Y. Agyekum Addo, a passionate **Machine Learnin
 
 ## 🛠️ Technologies & Tools
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-f0c231?style=for-the-badge&logo=huggingface&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-f0c231?style=for-the-badge&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🛠️ Technologies & Tools
 
 ### Programming Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
 
 ### Frameworks & Libraries
-<img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" width="50"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"/> <img src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" alt="OpenCV" width="50"/>
+<img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" width="50"/> <img src="https://pytorch.org/assets/images/pytorch-logo.png" alt="PyTorch" width="50"/> <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50"/> <img src="https://img.icons8.com/?size=100&id=bpip0gGiBLT1&format=png&color=000000" alt="OpenCV" width="50"/> <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" width="50"/>
 
 ## 🔥 **Skills**
 - 🧠 **Deep Learning**: CNNs, GANs, Semantic Segmentation  
