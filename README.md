@@ -40,19 +40,19 @@ Welcome to my GitHub! I'm Robert Y. Agyekum Addo, a passionate **Machine Learnin
 ---
 
 ## 🚀 **Featured Projects**
-### 🔍 **[Computer Vision Football Analysis](https://github.com/ROBERT-ADDO-ASANTE-DARKO/football-analysis)**  
+### 🔍 **[Computer Vision Football Analysis](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Football-Analysis-with-YOLOv8-and-OpenCV)**  
 Used YOLOv8 to analyze football matches, detecting player positions and tracking movement in real-time.  
 
-### 🌾 **[Crop Disease Detection Chatbot](https://github.com/ROBERT-ADDO-ASANTE-DARKO/crop-disease-detection)**  
+### 🌾 **[Crop Disease Detection Chatbot](https://github.com/ROBERT-ADDO-ASANTE-DARKO/AI-powered-crop-disease-detection)**  
 Built a conversational chatbot combining YOLOv8 and LLaVA to detect and explain crop diseases.  
 
-### 🤖 **[MNIST Digit Classification](https://github.com/ROBERT-ADDO-ASANTE-DARKO/mnist-digit-classification)**  
+### 🤖 **[MNIST Digit Classification](https://github.com/ROBERT-ADDO-ASANTE-DARKO/GO2COD_ML_01)**  
 Implemented transfer learning using **VGG16**, **ResNet**, and **Inception** to classify handwritten digits.  
 
-### 🏠 **[House Price Prediction](https://github.com/ROBERT-ADDO-ASANTE-DARKO/house-price-prediction)**  
+### 🏠 **[House Price Prediction](https://github.com/ROBERT-ADDO-ASANTE-DARKO/GO2COD_ML_03)**  
 Developed a regression model to predict house prices using historical data.  
 
-### 🌐 **[RAG Chatbot with LLaMA-2](https://github.com/ROBERT-ADDO-ASANTE-DARKO/rag-chatbot)**  
+### 🌐 **[RAG Chatbot with LLaMA-2](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Business-chatbot)**  
 Created a Retrieval-Augmented Generation chatbot using Langchain, FAISS, and LLaMA-2.  
 
 ---
