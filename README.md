@@ -27,9 +27,6 @@ Welcome to my GitHub! I'm Robert Y. Agyekum Addo, a passionate **Machine Learnin
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
 
 ### Frameworks & Libraries
-
-### Frameworks & Libraries
-
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap; gap: 20px;">
 
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" width="50"/>
