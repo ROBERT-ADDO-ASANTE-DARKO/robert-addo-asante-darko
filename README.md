@@ -23,10 +23,6 @@ Welcome to my GitHub! I'm Robert Y. Agyekum Addo, a passionate **Machine Learnin
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-AA4A44?style=for-the-badge&logo=xgboost&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-f0c231?style=for-the-badge&logo=huggingface&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🚀 Machine Learning Topics
-
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0078D7?style=for-the-badge&logo=machinelearning&logoColor=white) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-763DAB?style=for-the-badge&logo=deeplearning-ai&logoColor=white) ![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-1081C5?style=for-the-badge&logo=natural-language-processing&logoColor=white) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-3C3E42?style=for-the-badge&logo=opencv&logoColor=white) ![Time Series Analysis](https://img.shields.io/badge/Time%20Series%20Analysis-17A589?style=for-the-badge&logo=timeseries&logoColor=white)
-
 ### Programming Languages
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50"/>
 
