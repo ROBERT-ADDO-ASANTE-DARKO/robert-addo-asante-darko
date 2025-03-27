@@ -49,7 +49,7 @@ Welcome to my GitHub! I'm Robert Y. Agyekum Addo, a passionate **Machine Learnin
 ## 🔥 **Skills**
 - 🧠 **Deep Learning**: CNNs, GANs, Semantic Segmentation  
 - 🖼️ **Computer Vision**: You Only Look Once (YOLO), Single Shot Multibox Detector (SSD), Detectron2, DETR, Pose Estimation(YOLOvX-Pose, MediaPipe), OpenCV, Image Classification  
-- 📚 **Natural Language Processing**: Transformers, RAG, Chatbots, Large Language Models (LLMs), RAGAS  
+- 📚 **Natural Language Processing**: Transformers, Retrieval Augmented Generation (RAG), Chatbots, Large Language Models (LLMs), Retrieval Augmented Generation with Assessment Score (RAGAS)  
 - 📊 **Data Science**: Time Series, ARIMA, XGBoost  
 - 📍 **Geospatial Analysis**: QGIS, Google Earth Engine, Digital Elevation Models (DEMs), NDVI, Sentinel-2  
 - 🛠️ **Programming**: Python, TensorFlow, PyTorch  
