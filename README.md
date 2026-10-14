@@ -31,22 +31,26 @@ Real-time pipeline that turns a webcam view of a physical chessboard into moves,
 Fine-tuned YOLO11-seg · ByteTrack · homography square mapping · MediaPipe hand-occlusion handling.
 I also built the 671-instance segmentation dataset on CPU, using GrabCut edge-snapping and homography label propagation.
 
-### 🛰️ Monocular Metric 3D Reconstruction & Visual Odometry
+### 🛰️ [Monocular Metric 3D Reconstruction & Visual Odometry](https://github.com/ROBERT-ADDO-ASANTE-DARKO/adas-vo-pipeline)
 Per-chunk mode selection, formalized as an MDP and solved with Thompson sampling, over MapAnything and Depth Anything 3.
 **4.891 m ATE on KITTI seq06** (monocular + GPS), outperforming stereo baselines. Evaluated across 74 runs on Comma2k19, KITTI, and real fleet footage.
 
 ### 🐔 Poultry Monitoring System · Farmline.ai
 Two-stage pipeline: YOLOv8-seg anatomical part detection (9 keypoints) feeding MobileNetV3 breed and sex classifiers, plus ByteTrack tracking, pose-based activity analysis, and a multimodal RAG module (ColPali + Qwen 2.5-VL).
 
-### 🚗 ADAS Perception Pipeline
+### 🚗 [ADAS Perception Pipeline](https://github.com/ROBERT-ADDO-ASANTE-DARKO/adas-vo-pipeline)
 YOLOv9, YOLOP, DeepSORT, Depth Anything V3, and SAM2, with time-to-collision risk scoring and pseudo-LiDAR point clouds from dashcam video.
 
-### 🌊 ThirdWave · Flood Response for Accra
-Streamlit platform with a district vulnerability dashboard, crowdsourced flood reports with AI photo triage, and 3D pluvial flood simulation.
+### 🌊 [ThirdWave · Flood Early Warning for Accra](https://github.com/ROBERT-ADDO-ASANTE-DARKO/ThirdWave)
+Explainable flood-vulnerability scoring for 1,013 zones from Sentinel-1 SAR, Copernicus DEM, and ESA WorldCover. Government console (dashboard, verification queue, pluvial and 3D flood simulation) plus a citizen app with photo reporting and safer routing.
+Also maps the 2023 Akosombo dam-spillage flood, with Sentinel-1 and Sentinel-2 agreeing on ~8 km² of new inundation.
+
+### 🌾 [Areo AI · Agricultural Assistant](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Areo-AI)
+Crop disease detection with fine-tuned YOLOv8 (18 classes), a RAG assistant over a Qdrant knowledge base, voice output, and translation.
+Fine-tuned domain embeddings with Matryoshka loss, lifting NDCG@10 by up to 18%; evaluated with RAGAS.
 
 ### Earlier work
 [Football analysis with YOLOv8](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Football-Analysis-with-YOLOv8-and-OpenCV) ·
-[Crop disease detection chatbot](https://github.com/ROBERT-ADDO-ASANTE-DARKO/AI-powered-crop-disease-detection) ·
 [RAG chatbot with LLaMA-2](https://github.com/ROBERT-ADDO-ASANTE-DARKO/Business-chatbot) ·
 [Transfer learning on MNIST](https://github.com/ROBERT-ADDO-ASANTE-DARKO/GO2COD_ML_01)
 
